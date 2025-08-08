@@ -6,7 +6,7 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
 - **User Management**:
   - **User Registratio** - users can sign up (Job Provider/Job seeker)
   - **Authentication & Authorization** - users can login with role-based access
-  - **Profile Management** - users can update their prodile
+  - **Profile Management** - users can update their profile
 - **Job Management**:
 
 - **Category Management**:

@@ -3,11 +3,16 @@
 This is a backend solution for a hiring platform built with Java, Spring Boot, and MySQL. The platform assists students to find part-time jobs while companies can post job opportunities. It includes core features like **user authentication**, **job management**, **category management**, and **hiring processing**.
 
 ## Features:
-- **Handling the hiring process**: The system handles the hiring process, which is carried out by the students and companies. This frees up time for both parties and makes it easier to find a mutually beneficial match.
-- Reviews feature: The system incorporates a reviews feature where employers can offer feedback and reviews for job seekers/students upon the successful completion of their part-time engagements. This helps students to get valuable feedback on their work and to improve their skills and knowledge.
-- **AI-powered resources**: The system incorporates a comprehensive suite of AI-powered resources to assist students in crafting compelling and professional resumes. This helps students to create resumes that are tailored to their specific skills and experience and that will help them to stand out to potential employers.
-- **Experience certificate**: The job provider can add an experience certificate after the student is done with their training. This can be a valuable addition to the student's resume and can help them to get a job after graduation.
-- **Job alerts**: Tamakan will send job alerts to the students' email addresses who are matched with the job criteria. This ensures that students are always up-to-date on the latest job openings and that they have the opportunity to apply for jobs that are a good fit for their skills and interests.
+- **User Management**:
+  - **User Registratio** - users can sign up (Job Provider/Job seeker)
+  - **Authentication & Authorization** - users can login with role-based access
+  - **Profile Management** - users can update their prodile
+- **Job Management**:
+
+- **Category Management**:
+
+- **hiring processing**:
+
 
 ## Technologies Used
 - Languages

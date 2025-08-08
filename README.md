@@ -1,6 +1,6 @@
 # Hiring-Platform
 
-Tamakan is an extensive platform developed specifically to assist students get real-world work experience while they're still their academic journey. Tamakan serves as a centralized hub where students can explore and obtain part-time job opportunities that align with their interests, abilities, and career goals. Tamakan can help them to build relationships that can be beneficial to their careers. include that Tamakan can help them to gain valuable work experience that they can use to boost their resumes and make them more competitive in the job market.
+This is a backend solution for a hiring platform built with Java, Spring Boot, and MySQL. The platform assists students to find part-time jobs while companies can post job opportunities. It includes core features like **user authentication**, **job management**, **hiring management**, and **category management**.
 
 ## Features:
 - **Handling the hiring process**: The system handles the hiring process, which is carried out by the students and companies. This frees up time for both parties and makes it easier to find a mutually beneficial match.

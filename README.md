@@ -11,7 +11,7 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
 - **Job Management**:
   - **Job Posting** - Job providers can create, update, and delete job postings (title, description, requirements, salary)
   - **Job Browsing** - Job seekers can retrieve available jobs with pagination and filters
-  - **Job Details** - Job seekers can view job descriptions and requirements
+  - **Job Details** - Job seekers can view job description and requirements
   - **Job Notification** - Job seekers will receive email alerts for new job postings
     
 - **Category Management (types of job)**:

@@ -9,18 +9,18 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
   - **Profile Management** - users can update their profile
  
 - **Job Management**:
-  - **Job Posting** – Job providers can create, update, and delete job postings (title, description, requirements, salary)
-  - **Job Browsing** – Job seekers can retrieve available jobs with pagination and filters
-  - **Job Details** – Job seekers can view job descriptions and requirements
+  - **Job Posting** - Job providers can create, update, and delete job postings (title, description, requirements, salary)
+  - **Job Browsing** - Job seekers can retrieve available jobs with pagination and filters
+  - **Job Details** - Job seekers can view job descriptions and requirements
     
 - **Category Management**:
   - **Category Management** - admin can create, update, and delete categories (e.g., Web Development, Data Science, UI/UX)
   - **Category Listing** - users can retrieve categories with pagination and filtering
     
 - **hiring processing**: 
-  - **Application Submission** – Job seekers can apply for posted jobs
-  - **Application Tracking** – Job seekers can view their application status
-  - **Application Status Management** – Job providers can review applicationn and update status (Pending, Interview Scheduled, Hired, Rejected)
+  - **Application Submission** - Job seekers can apply for posted jobs
+  - **Application Tracking** - Job seekers can view their application status
+  - **Application Status Management** - Job providers can review applicationn and update status (Pending, Interview Scheduled, Hired, Rejected)
 
 
 ## Technologies Used

@@ -1,6 +1,6 @@
 # Hiring-Platform
 
-This is a backend solution for a hiring platform built with Java, Spring Boot, and MySQL. The platform assists students to find part-time jobs while companies can post job opportunities. It includes core features like **user authentication**, **job management**, **category management**, and **hiring processing**.
+This is a backend solution for a hiring platform built with Java, Spring Boot, and MySQL. The platform assists students to find part-time jobs while companies can post job opportunities. It includes core features like **user authentication**, **job management**, **category management (types of job)**, and **hiring processing**.
 
 ## Features:
 - **User Management**:
@@ -14,7 +14,7 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
   - **Job Details** - Job seekers can view job descriptions and requirements
   - **Job Notification** - Job seekers will receive email alerts for new job postings
     
-- **Category Management**:
+- **Category Management (types of job)**:
   - **Category Management** - admin can create, update, and delete categories (e.g., software development, IT support, data analysis, cybersecurity)
   - **Category Listing** - users can retrieve categories with pagination and filtering
     

@@ -4,7 +4,7 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
 
 ## Features:
 - **User Management**:
-  - **User Registration** - users can create an account (Job Provider/Job seeker)
+  - **User Registration** - users can create an account (job Provider/job seeker)
   - **Authentication & Authorization** - users can login with role-based access
   - **Profile Management** - users can update their profile
  
@@ -14,22 +14,25 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
   - **Job Details** - Job seekers can view job descriptions and requirements
     
 - **Category Management**:
-  - **Category Management** - admin can create, update, and delete categories (e.g., Web Development, Data Science, UI/UX)
+  - **Category Management** - admin can create, update, and delete categories (e.g., software development, IT support, data analysis, cybersecurity)
   - **Category Listing** - users can retrieve categories with pagination and filtering
     
 - **hiring processing**: 
   - **Application Submission** - Job seekers can apply for posted jobs
   - **Application Tracking** - Job seekers can view their application status
-  - **Application Status Management** - Job providers can review applicationn and update status (Pending, Interview Scheduled, Hired, Rejected)
+  - **Application Status Management** - Job providers can review applicationn and update status (pending, interview scheduled, hired, rejected)
 
 
 ## Technologies Used
 - Languages
     - Java 21 – Programming language
+    
 - Frameworks
     - Spring Boot – RESTful API framework
+      
 - Datebase
     - MySQL – Relational database
+ 
 - Dependencies
     - Spring Data JPA (Hibernate) – ORM for database access
     - Spring Security (JWT) – Authentication and authorization
@@ -37,8 +40,10 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
     - Lombok – Reduces boilerplate code
     - JUnit 5 – Testing framework
     - Spring Boot Test – Test support for Spring apps
+      
 - Dependency manger
     - Maven – Dependency and build management
+      
 - Tools
     - Postman – API testing
 

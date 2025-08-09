@@ -21,7 +21,7 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
 - **Hiring Processing**: 
   - **Application Submission** - Job seekers can apply for posted jobs
   - **Application Tracking** - Job seekers can view their application status
-  - **Application Status Management** - Job providers can review applicationn and update status (pending, interview scheduled, hired, rejected)
+  - **Application Status Management** - Job providers can review application and update status (pending, interview scheduled, hired, rejected)
 
 
 ## Technologies Used

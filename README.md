@@ -93,8 +93,8 @@ Hiring-Platform/
 │   │   │       ├── config/           # Security and application configurations
 │   │   │       ├── dto/              # Data Transfer Objects
 │   │   │       ├── model/            # JPA entities (models)
-│   │   │       ├── advice/           # Custom exceptions and hanling
-│   │   │       ├── repository/       # Spring Data JPA repositories
+│   │   │       ├── advice/           # Custom exceptions hanling
+│   │   │       ├── repository/       # Spring Data JPA repositories for database operations
 │   │   │       ├── service/          # Business logic and services
 │   │   │       └── FreelanceApplication.java  # Application entry point
 │   │   ├── resources/

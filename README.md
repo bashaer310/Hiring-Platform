@@ -57,7 +57,7 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
 
 2. Navigate to the project folder:
   ```bash
-  Hiring-Platform
+  cd Hiring-Platform
   ```
 
 3. Configure Database:

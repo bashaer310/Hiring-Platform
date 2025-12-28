@@ -101,7 +101,7 @@ Hiring-Platform/
 │   │   │       ├── service/          # Business logic layer
 │   │   │       └── FreelanceApplication.java  # Application entry point
 │   │   ├── resources/
-│   │   ├── application.properties    # App configuration and DB connection
+│   │   │   └── application.properties    # App configuration and DB connection
 ├── pom.xml                           # Maven configuration file
 ```
 

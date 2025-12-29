@@ -80,8 +80,8 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
 ```
 
 6. Test the API
-    - your apis are available at: [locahost:](http://localhost:/)
-    - Use tools like Postman to test the endpoints.
+- your apis are available at: [locahost:](http://localhost:/)
+- Use tools like Postman to test the endpoints.
 
 
 

@@ -42,7 +42,7 @@ This is a backend solution for a hiring platform built with Java, Spring Boot, a
     - JUnit 5 – Testing framework
     - Spring Boot Test – Test support for Spring apps
       
-- Dependency manger
+- Dependency manager
     - Maven – Dependency and build management
       
 - Tools
